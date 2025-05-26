@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/FBScripts/FBScriptsLoader/refs/heads/main/MM2',true))() -- Forbidden Scripts
-loadstring(game:HttpGet('https://raw.githubusercontent.com/FBScripts/Eclipse2025/refs/heads/main/FBScripts',true))() -- Eclipse
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FBScripts/FBScriptsLoader/refs/heads/main/MM2',true))() -- game checker
+https://raw.githubusercontent.com/FBScripts/V3RTEX/refs/heads/main/FBScripts -- v3rtex
 
--- Script ver 1.0 (@TvoyTwix)
+-- Script ver 1.1 (@TvoyTwix) 26.05.25
